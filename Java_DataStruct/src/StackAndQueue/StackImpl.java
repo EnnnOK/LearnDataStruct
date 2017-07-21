@@ -1,6 +1,6 @@
 package StackAndQueue;
 
-public class StackApp {
+public class StackImpl {
 	public static void main(String[] args){
 		Stack s=new Stack(10);
 		System.out.println("begin");
